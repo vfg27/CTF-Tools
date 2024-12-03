@@ -1,0 +1,3 @@
+[submodule "waybackurls"]
+	path = waybackurls
+	url = https://github.com/tomnomnom/waybackurls
