@@ -11,6 +11,10 @@ Welcome to my **CTF Tools** repository! This repository is a collection of tools
 - **linpeas**: A powerful script for Linux privilege escalation enumeration.
 - **waybackurls**: A handy tool for discovering hidden or old URLs from web archives.
 
+##
+
+- **sqlmap**: Tool to test SQL injection attacks
+
 ---
 
 ## 🚀 How to Use
